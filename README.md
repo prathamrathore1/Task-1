@@ -1,2 +1,2 @@
-# Task-1
+# Codes of task 1,2,3
 Number Guessing Game
