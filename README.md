@@ -1,2 +1,2 @@
-# Codes of task 1,2,3
+# Codesoft Task-1,2,3
 Number Guessing Game
